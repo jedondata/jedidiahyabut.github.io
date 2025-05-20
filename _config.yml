@@ -10,7 +10,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default)
-title                    : "Site Title"
+title                    :       "Jedidiah Yabut"           # replaces “Site Title”  
+subtitle                 :    "Data Scientist & ML Engineer"  
+name                     :        "Jedidiah Yabut"           # appears in the sidebar  
+description              : "Chemical Engineer turned Data Scientist. Passionate about AgriTech."  
+author:
+  name:      "Jedidiah Yabut"
+  bio:       "Chemical Engineer turned Data Scientist..."
+  location:  "Philippines"
+  avatar:    "/assets/jedyabut-headshot.jpg"
 title_separator          : "-"
 subtitle                 : # site tagline
 name                     : "Your Name"
